@@ -1,0 +1,48 @@
+
+
+.Pretty {
+  color: red;
+}
+
+article
+{
+  /*width: 30rem;*/
+   background-color: cyan;
+   border-width: thin;
+   border: 1px solid gray;
+   border-radius: 25px;
+   margin: 25px;
+   padding:25px;
+   width: 30rem;
+}
+
+body {
+     background-color:navy;
+       }
+
+footer {
+      clear:both;
+      text-align: center;
+      color: grey;
+    }
+h1{
+  font-size: 200%;
+  text-align: center;
+  color: blue;
+}
+
+h2{
+  font-size: 150%;
+}
+
+li{
+  list-style-position:inside;
+  margin-left: 0.5em;
+  }
+
+.profile-photo {
+    display:block;
+    max-width: 150px;
+    margin:0 auto 30px;
+    border-radius:100%;
+  }
